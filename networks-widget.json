@@ -181,17 +181,17 @@
           "payload": {
             "listName": "Peacock Movies",
             "listSlug": "peacock-movies",
-            "traktId": 33032900,
-            "username": "snoak"
+            "traktId": 30504299,
+            "username": "tvgeniekodi"
           }
         },
         {
           "kind": "traktList",
           "payload": {
-            "listName": "Peacock Series",
-            "listSlug": "peacock-series",
-            "traktId": 33032894,
-            "username": "snoak"
+            "listName": "Peacock Shows",
+            "listSlug": "peacock-shows",
+            "traktId": 30504294,
+            "username": "tvgeniekodi"
           }
         }
       ]
