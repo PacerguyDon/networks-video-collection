@@ -169,7 +169,34 @@
                 }
               ]
             },
-            {
+                {
+      "hideTitle": true,
+      "id": "7f1e9c2a-8b3d-4e5f-9a1b-0c2d3e4f5a6d",
+      "imageAspect": "wide",
+      "imageURL": "https://raw.githubusercontent.com/PacerguyDon/networks-video-collection/main/networks%20collection/peacock.png",
+      "title": "Peacock",
+      "dataSources": [
+        {
+          "kind": "traktList",
+          "payload": {
+            "listName": "Peacock Movies",
+            "listSlug": "peacock-movies",
+            "traktId": 33032900,
+            "username": "snoak"
+          }
+        },
+        {
+          "kind": "traktList",
+          "payload": {
+            "listName": "Peacock Series",
+            "listSlug": "peacock-series",
+            "traktId": 33032894,
+            "username": "snoak"
+          }
+        }
+      ]
+    },
+  {
               "hideTitle": true,
               "id": "2E0DC4A9-D25B-4821-A726-6FD879879EA8",
               "imageAspect": "wide",
